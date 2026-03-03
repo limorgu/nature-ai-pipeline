@@ -1,0 +1,1546 @@
+{
+    "run_metadata": {
+        "timestamp": "20260302_1529",
+        "model": "gpt-4o-mini",
+        "thresholds": {
+            "min_relevancy": 6,
+            "min_confidence": 7
+        }
+    },
+    "book_info": {
+        "name": "TheGlassCastle_JwannetteWalls"
+    },
+    "extracted_quotes": [
+        {
+            "author": "JwannetteWalls",
+            "quote": "let the water drain into the yard to help the grass grow",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 100
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "we\u2019d had lizards to eat the flies and cats to eat the kitchen counters",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 100
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the termite infestation was so severe nothing could be done about it",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 101
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the bowls of the earth would open up and swallow them forever",
+            "confidence": 7,
+            "relevancy": 8,
+            "page_number": 102
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "a vagrant or a wind would wander through the front door",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 102
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "jumping into the fountain in front of the building",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 104
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Mom considered herself a Baptist. Probably the most beautiful church I had ever seen was St. Mary\u2019s with its tall adobes and broad, soaring steeples",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 104
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "a pair of sweeping staircases covered with pigeons",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 104
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "I\u2019m starting to feel like a rat in a maze... we were losing touch with the natural order of the world.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 106
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "He missed the wilderness. He needed to be roaming free in open country and living among untamed animals.",
+            "confidence": 9,
+            "relevancy": 9,
+            "page_number": 106
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "It was good for your soul to have buzzards and coyotes and rattlesnakes around.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 106
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "That mountain lion had as much right to his life as that sour old biddy does to hers.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 106
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "no animal, no matter how big or wild, is dangerous as long as you know what you\u2019re doing.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 106
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the poor creatures made my heart ache.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 106
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the biggest, scaliest alligator",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 107
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "alligator sunbathed themselves on rocks surrounding a pond",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 107
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Dad pointed to the biggest, scaliest alligator",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 107
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "His amber eyes were steady but sad, as if he knew he'd never see the plains of Africa again.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 108
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "The cheetah liked my palm, his tongue warm and rough, like spaghetti dipped in hot water.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 109
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "this poor old tree isn't going to sell by the end of the day, and it needs someone to love it",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 114
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "tall, dark, but slightly dried-out Douglas fir",
+            "confidence": 8,
+            "relevancy": 6,
+            "page_number": 114
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "dried-out needles caught fire",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 115
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "I looked up at the thin swirls of clouds high in the blue Arizona sky.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 116
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "sat down under the orange tree",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 117
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "go outside and play",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 117
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "He decided that the Walls clan should take a long camping trip to the Grand Canyon.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 118
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "We\u2019d swim and fish and cook our catch over an open fire.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 118
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "We could climb the cliffs and study the canyon\u2019s geological strata.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 118
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "What\u2019s fancy archery set, the one made of inlaid fruitwood, because Dad said you never know what wild game we might find in those canyon recesses.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 118
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "We might decide to live in the Grand Canyon permanently.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 119
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "We were out in the desert now, the telephone poles snapping past.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 119
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "buzzards circling high in the distance",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 120
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "wind whipping off the desert",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 120
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "sound of our feet crunching on the sand and rocks",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 120
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "We\u2019d live in the forest in the mountains with the squirrels and the chipmunks.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 123
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "I ran into the backyard and said goodbye to the orange trees",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 124
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Dad told it. Mom and Dad were out exploring in the desert when Lori, who was four, turned over a rock and the scorpion hiding under it stung her leg.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 13
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "But Dad didn\u2019t trust hospitals, so he took her to a Navajo witch doctor who cut open the wound and put a dark brown paste on it and said some chants and pretty soon Lori was as good as new.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 13
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Welch was surrounded on all sides by such steep mountains that you felt like you were looking up from the bottom of a bowl.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 133
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "We stopped under a railroad bridge and got out of the car to admire the river that ran through the town.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 133
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "The river\u2019s name, Dad said, was the Tug.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 133
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Sometimes the river flooded and the water rose as high as the treetops.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 133
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Dad pointed to the toilet paper up in the branches along the river\u2019s banks.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 133
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "It had rained the night before, and I stepped off the bus and into a puddle of water that filled the playground.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 136
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "It had been cold during the night, and Mom had unpacked the down jackets...",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 136
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "It had rained the night before our first day of school.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 137
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "It had been cold ever since we arrived in Welch.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 137
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the water that filled the muddy tire ruts left by the school buses.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 137
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the tree line on the far side of the park",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 141
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the big, lathered-up mongrel",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 141
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "I wanted to feel the desert sun on my face and breathe in the dry desert air and climb the steep rock mountains while Dad led us on one of the long hikes that he called geological survey expeditions.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 145
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Even if there\u2019s an earthquake coming I\u2019m going to have another dance",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 151
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the dirty streets, the dusty gardens, the countryside disfigured by new buildings",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 160
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the neighborhood, every stone or piece of wood, everything, had grown up without realizing it, without ever even thinking about it.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 162
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "near the ponds",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 167
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "light of the moon",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 17
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "brave little girl",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 17
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "gray and white cat",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 17
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Above me was a tremendous cold sky, full of stars and shadows.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 173
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Already we could hear the first whizz of the rockets as they furrowed the sky and exploded in bright-colored flowers.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 173
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Later that night, Dad stopped the car out in the middle of the desert, and we slept under the stars.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 18
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "I told Lori how lucky we were to be sleeping out under the sky like Indians.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 18
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "We drove down to see the Atlantic, and dipped like a sheet when you shook it clean.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 180
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Finally, we entered hill country, climbing higher and deeper into the Appalachian Mountains, stopping from time to time to let the Oldsmobile catch its breath on steep, twisting roads.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 180
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "The leaves had turned brown and were falling from the trees, and a cold mist shrouded the hillsides.",
+            "confidence": 9,
+            "relevancy": 9,
+            "page_number": 180
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "There were streams and creeks everywhere, instead of the irrigation ditches we saw out west, and the air felt different.",
+            "confidence": 8,
+            "relevancy": 8,
+            "page_number": 180
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "At dusk, we approached a bend where hand-painted signs advertising auto repairs and coal deliveries had been nailed to trees along the roadside.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 180
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "We rounded the bend and found ourselves in a deep valley.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 180
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Wooden houses and small brick buildings lined the river and rose in uneven stacks on both hillsides.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 180
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "places like the Superstition Mountains, the dried-up Soda Lake, and the Old Woman Mountain",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 19
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "We lived in dusty little mining towns in Nevada, Arizona, and California",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 19
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the more desolate and isolated a place was, the better Mom and Dad liked it",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 19
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the ranch up near Fish Creek Canyon, Arizona, which was west of Bullhead City, not too far from the Grand Canyon",
+            "confidence": 7,
+            "relevancy": 8,
+            "page_number": 20
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "their faces wrinkled and brown from the sun, like dried-up apples",
+            "confidence": 8,
+            "relevancy": 8,
+            "page_number": 20
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "pale as a frog\u2019s underbelly",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 200
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the negative thoughts seemed to swoop into her like a big flock of black crows taking over the landscape, sitting thick in the trees and on the fence rails and lawns, staring at you in ominous silence",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 207
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "She loved the dry, crackling heat, the way the sky at sunset looked like a sheet of fire, and the overwhelming emptiness and severity of all that open land that had once been a huge ocean bed.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 21
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Most people had trouble surviving in the desert, but Mom thrived there.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 21
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "She showed us which plants were edible and which were toxic.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 21
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Water from the wild helped build up your antibodies.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 21
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "I loved the desert, too.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 21
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "When the sun was in the sky, the sand would be so hot that it would burn your feet.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 21
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "There'd be a cool spell come sundown, when the mosquitoes would fly in so thick that the air would grow dark with them.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 21
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Sometimes they hit without warning, and other times you knew one was coming when you saw batches of dust devils swirling and dancing their way across the desert.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 21
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the wind whistled through the broken window on my side of the Plymouth",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 213
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "A big tumbleweed might hit you, but they were light and bouncy and didn\u2019t hurt.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 22
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "When the rains finally came, the skies darkened and the air became heavy.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 22
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Raindrops the size of marbles came pelting out of the sky.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 22
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Great bolts of lightning cracked from the low-hanging clouds, and thunder shook the ground.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 22
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "After the storm, Dad took us to the arroyos, and we watched the flash floods come roaring through.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 22
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the saguaros and prickly pears were far from drinking as much as they could, because they knew it might be a long, long time until the next rain.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 22
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the grapes were so ripe they were about to burst on the vine in bunches bigger than my head.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 22
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "I ran up into the woods, pushing tree branches and wild grape vines out of my face.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 221
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "I walked for what felt like hours through the silent hills.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 221
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "The air was clear and cool, and the forest floor was thick with leaves that had fallen from the buckeyes and poplars.",
+            "confidence": 9,
+            "relevancy": 9,
+            "page_number": 221
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "a solitary crow in the sky",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 223
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "gnarled roots heaving up from the earth",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 223
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "a bare tree on the shoreline",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 223
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "he mowed lawns or chopped wood or cut hillside weeds with scythe.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 224
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "came home with his arms and face scratched from the brush he\u2019d cleared.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 224
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "shows where bearded men in overalls played dulcimers and women in granny dresses sold corncob hats and coal sculptures of black bears and miners.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 225
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the air would be filled with sawdust and the smell of freshly cut wood",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 23
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "he made an emergency landing in a cattle pasture",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 24
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "wrestled a pack of wild dogs that had surrounded a lone mustang",
+            "confidence": 8,
+            "relevancy": 8,
+            "page_number": 24
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the desert",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 25
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "sun\u2019s rays",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 25
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "cattle ranch near Fish Creek Canyon",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 26
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "cliff of the canyon",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 26
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "diving off the cliff",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 26
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "lake forty feet below",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 26
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "dark from the Arizona sun",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 26
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the sun hung high in the sky, and there was not the slightest hint of a breeze.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 29
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "some buzzards on the side of the road, pecking over an unrecognizable carcass.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 29
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the sun was small and white and broiling-hot",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 30
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "A wind had come up, and it was roiling the dust along the roadside",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 30
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "It had rained the night before, and the only sound was the gurgle of the runoff pouring down the eroded gullies on the hillside.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 306
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Thin streams of muddy water flowed across the road, seeping into my shoes and soaking my socks.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 306
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "We headed west, through desert and then mountains.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 33
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the air was hot and stifling.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 33
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "I saw flames leaping at the open window.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 33
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "We lived for a few days on the beach.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 34
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Dad was fed up with civilization. He and Mom decided we should move back to the desert.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 34
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "It was an ancient Joshua tree. It stood in a crease of land where the desert ended and the mountain began, forming a wind tunnel.",
+            "confidence": 8,
+            "relevancy": 9,
+            "page_number": 35
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "From the time the Joshua tree was a tiny sapling, it had been so beaten down by the whipping wind that, rather than trying to grow skyward, it had grown in the direction that the wind pushed it.",
+            "confidence": 8,
+            "relevancy": 8,
+            "page_number": 35
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "At night you could hear coyotes howling.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 35
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "I\u2019d hear other sounds\u2014Gila monsters rustling in the underbrush, moths knocking against the screens, and the creosote crackling in the wind.",
+            "confidence": 8,
+            "relevancy": 9,
+            "page_number": 35
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "desert night",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 36
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Not much grew around Midland other than the Joshua tree, cacti, and the scrubby little creosote bushes that Dad said were some of the oldest plants on the planet.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 37
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "The great granddaddy creosote bushes were thousands of years old.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 37
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "When it rained, they let off a disgusting musty smell animals wouldn\u2019t eat them.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 37
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "The only animals that could survive around Midland were lipless, scaly creatures such as Gila monsters and scorpions, and people like us.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 37
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "We buried him near the Joshua tree.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 37
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "You\u2019d be destroying what makes it special,",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 38
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "It\u2019s the Joshua tree\u2019s struggle that gives it its beauty.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 38
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "we looked up at the sky. Dad loved to talk about the stars. He explained to us how they rotated through the night sky as the earth turned.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 39
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Those big shining stars, he liked to point out, were one of the special treats for people like us who lived out in the wilderness.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 39
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Rich city folks, he\u2019d say, lived in fancy apartments, but their air was so polluted they couldn\u2019t even see the stars.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 39
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "You could see hundreds, maybe thousands or even millions, twinkling in the clear desert sky.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 40
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "There was one in particular, in the west above the mountains but low in the sky, that shone more brightly than all the rest.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 40
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "You could see it in the early evening, glowing on the western horizon, and if you got up early, you could still see it in the morning, after all the stars had disappeared.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 40
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Betelgeuse was a red star in the shoulder of the constellation Orion.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 40
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Rigel was blue, even brighter.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 40
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "It had burned brightly for millions of years and would soon become a supernova and burn out.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 41
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Rigel was a blue star, smaller than Betelgeuse, Dad said, but even brighter.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 41
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Venus didn\u2019t have any moons or satellites or even a magnetic field, but it did have an atmosphere sort of similar to Earth\u2019s, except it was super-hot\u2014about five hundred degrees or more.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 41
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "when the sun starts to burn out and Earth turns cold, everyone here might want to move to Venus to get warm.",
+            "confidence": 8,
+            "relevancy": 8,
+            "page_number": 41
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "you\u2019ll still have your stars.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 41
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the bats came out and swirled through the sky above the shacks of Midland",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 42
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "I loved those ugly little bats, the way they darted past, their wings in a furious blur",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 42
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the bats were out, swooping and screeching",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 42
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "bobbing in and out of the desert brush",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 43
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the car bounced on holes and rocks, brush scratching against its sides and dust coming through the open windows",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 43
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "It\u2019s a goddamn perversion of nature",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 44
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "If you want to live in the desert, eat prickly pears, not iceberg pansy-assed lettuce",
+            "confidence": 7,
+            "relevancy": 8,
+            "page_number": 44
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "irrigation ditches that drained water out of the Colorado River to grow lettuce and grapes and broccoli right there in the middle of all the cactus and sagebrush",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 44
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "a clump of sagebrush",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 45
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "yucca branch",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 45
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "iceberg-lettuce farm",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 45
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "rows of big green leaves",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 46
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the moon was out. We could see the glow from the U-Haul's taillights and the road we'd come down, stretching back through the silvery desert",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 49
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the big empty sky and, off in the distance, the stony purple Tuscarora Mountains running down to the table-flat desert",
+            "confidence": 9,
+            "relevancy": 9,
+            "page_number": 51
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the huge sky",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 51
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "my favorite time, when the shadows were long and purple and you still had the whole day ahead of you.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 54
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "we\u2019d explore in the desert.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 54
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "that desert was filled with all sorts of amazing treasures.",
+            "confidence": 7,
+            "relevancy": 7,
+            "page_number": 54
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "There was so much turquoise\u2014nuggets and even big chunks of it lying on the desert floor\u2014that Brian and I could fill our pockets with it until the weight practically pulled our pants down.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 55
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "You could find the sun-parched skulls of coyotes and empty tortoise shells and the rattles and shed skins of rattlesnakes.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 55
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "And you could find great big bullfrogs that had stayed in the sun too long and were completely dried up and as light as a piece of paper.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 55
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "g Gooey in the hot sun",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 58
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "playing in the desert",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 58
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Some of the rocks I found while I was exploring out in the desert were so beautiful that I could not bear the idea of leaving them there.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 59
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "We discovered large sheets of mica that you could pound into powder and then rub all over your body so you\u2019d shimmer under the Nevada sun as if you were coated with diamonds.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 59
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the air was filled with dragonflies the size of small birds",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 60
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "chased after the desert rats that lived in the wrecked cars",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 60
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "caught tadpoles and frogs in the scum-topped pond",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 60
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "there were huge piles of railroad ties and rotting lumber that were great for climbing",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 60
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the sun went around us and rays crept in through the snaps in dad's long sleeves",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 60
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "heat that made the desert beyond seem to waver, like a mirage.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 61
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "sagebrush",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 62
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "hiding in the sagebrush",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 63
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "kicking at the dirt",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 63
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Mom also believed in letting nature take its course. She refused to kill the flies that always filled the house; she said they were nature\u2019s food for the birds and lizards. And the birds and lizards were food for the cats.",
+            "confidence": 9,
+            "relevancy": 9,
+            "page_number": 64
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "A coyote that seemed pretty tame lived with us for a while, and once Dad brought home a wounded buzzard that we named Buster.",
+            "confidence": 8,
+            "relevancy": 8,
+            "page_number": 64
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Whenever we fed Buster scraps of meat, he turned his head sideways and stared at us out of one angry-looking yellow eye.",
+            "confidence": 7,
+            "relevancy": 7,
+            "page_number": 64
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Every time I saw buzzards circling overhead, Dad would say that he recognized Buster among them and that he was coming back to thank us.",
+            "confidence": 7,
+            "relevancy": 7,
+            "page_number": 64
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "The Hot Pot was a natural sulfur spring in the desert north of town, surrounded by craggy rocks and quicksand.",
+            "confidence": 9,
+            "relevancy": 9,
+            "page_number": 65
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "The water was warm to the touch and smelled like rotten eggs.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 65
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "It was so full of minerals that rough, chalky encrustations had built up along the edges, like a coral reef.",
+            "confidence": 8,
+            "relevancy": 8,
+            "page_number": 65
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "A couple of children and wild teenagers had drowned there, and people said the Owl Club said when their bodies floated back to the surface, they\u2019d been literally boiled.",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 65
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Large bodies of water scared me. They seemed unnatural\u2014oddities in the deserted towns where we\u2019d lived.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 65
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "I waded in up to my shoulders. The water around my chest was warm, and the rocks I was standing on felt so hot I wanted to keep moving.",
+            "confidence": 8,
+            "relevancy": 8,
+            "page_number": 65
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the hot, smelly water",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 66
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "The clouds above the setting sun were streaked scarlet and purple.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 79
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "The temperature was dropping quickly, from searing hot to chilly within a matter of minutes, like it always did in the desert at dusk.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 79
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "we had the desert",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 81
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "thick black rubber smoke that made our noses sting as it rolled past us into the air",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 84
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "a clump of sagebrush",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 85
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Its red paint had been bleached by the desert sun and had turned orange along the rusting trim.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 86
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "I ran outside with a paper bag to gather up my favorite rocks.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 89
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "we were out in the desert",
+            "confidence": 7,
+            "relevancy": 8,
+            "page_number": 90
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "GRANDMA SMITH'S big white house had green shutters and was surrounded by eucalyptus trees.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 91
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "The front yard had a palm tree, and the backyard had orange trees that grew real oranges.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 94
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "I particularly loved the palm tree, which made me think I had arrived at some kind of oasis.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 94
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "There were also hollyhocks and oleander bushes with pink and white flowers.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 94
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "surrounded by palm trees and banana trees",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 95
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the playground at Emerson was covered with lush green grass",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 95
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "You see that tree over there?",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 96
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "I can see the individual leaves on it.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 96
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "she pointed out starlings perched on the telephone wires.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": 96
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "the way the setting sun painted the underbellies of the clouds pink but left the piled-up tops purple",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": 97
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "woodland animals",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 97
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "rural landscapes",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 97
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "urban landscapes",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 97
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "flowers, fruits and vegetables",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 97
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "Mountain Goat, I still feel bad about making you leave your rock collection back in Battle Mountain",
+            "confidence": 7,
+            "relevancy": 6,
+            "page_number": 99
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "about how the sun shone all the time and how it was so warm that we ran around barefoot even in the dead of winter, about how we ate lettuce in the farm fields and picked carloads of grapes and slept on blankets under the stars.",
+            "confidence": 9,
+            "relevancy": 8,
+            "page_number": null
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "she had blue eyes the color of the ocean that bordered California\u2019s beaches.",
+            "confidence": 8,
+            "relevancy": 7,
+            "page_number": null
+        },
+        {
+            "author": "JwannetteWalls",
+            "quote": "I walked around the mountain to apply for the job.",
+            "confidence": 8,
+            "relevancy": 6,
+            "page_number": null
+        }
+    ],
+    "processing_summary": {
+        "total_quotes_identified": 245,
+        "kept_quotes": 218,
+        "filtered_out_low_quality": 27
+    }
+}
