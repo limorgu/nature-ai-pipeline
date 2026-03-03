@@ -1,77 +1,67 @@
-This **Master README** is designed to be your project’s "Source of Truth." It documents the exact folder structure, the logic behind each stage, and how the data flows from a raw photo to a verified nature insight.
+
 
 ---
 
-# 📚 Book-to-Nature AI Research Pipeline
+# 📚 Generic-to-Insight: The Multi-Stage AI Research Pipeline
 
-This project automates the extraction of nature-related imagery and themes from physical books. It uses a **Multi-Stage AI Pipeline** to digitize, audit, and verify content with high precision.
+This project provides a robust, reproducible framework for turning raw physical media (photos of books/documents) into verified, structured datasets. While this specific instance is configured for **Nature Extraction**, the modular architecture is designed to be adapted for any thematic analysis (e.g., medical, legal, historical, or emotional sentiment).
 
 ## 📂 Master Directory Structure
 
-All project data resides in the following hierarchy:
+The hierarchy is strictly organized to maintain **Data Lineage**—ensuring the "Raw" never mixes with the "Processed."
 
 | Folder / File | Purpose |
 | --- | --- |
-| `Feb_books_test/` | **The Source:** Raw `.jpg` or `.png` photos of book pages. |
-| `Feb_results/Organized_Library_Source/` | **The Master Library:** Structured JSON text for every page. |
-| `Feb_results/Nature_Insights/` | **The Drafts:** Potential nature quotes found by `gpt-4o-mini`. |
-| `Feb_results/openai_audits/` | **The Gold Standard:** Verified and categorized quotes by `gpt-4o`. |
-| `Library_Audits/` | **Audit Logs:** Historical records of missing pages and word counts. |
-| `library_final_metadata.json` | **The Handshake:** The current "Map" of the library's completion status. |
+| `Source_Data/` | **The Input:** Raw `.jpg` or `.png` photos of source material. |
+| `Organized_Library/` | **The Master Library:** Verbatim JSON text digitized from images. |
+| `Thematic_Drafts/` | **The Gatherer Output:** Potential thematic quotes (High Recall). |
+| `Final_Audits/` | **The Gold Standard:** Verified and categorized insights (High Precision). |
+| `Library_Audits/` | **Tracking:** Logs of completion stats and data word counts. |
+| `final_metadata.json` | **The Handshake:** The dynamic "Map" of the library's progress. |
 
 ---
 
-## ⚙️ The 6-Stage Workflow
+## ⚙️ The 6-Stage Workflow (Thematic-Agnostic)
 
-### Stage 1: Initial OCR Extraction
+### Stage 1-3: The Digitization Engine
 
-* **Goal:** Convert raw images into text JSON files.
-* **Logic:** Uses Vision AI to transcribe text verbatim. It is **duplication-aware**; it skips any image already found in the Master Library.
-* **Output:** `.../Organized_Library_Source/BookTitle_Author/page_XX.json`
+* **Goal:** Create a 1:1 digital twin of the physical source.
+* **Logic:** Uses Vision AI for OCR. It is **duplication-aware** and uses a **Priority Queue** system to identify gaps (missing pages) and fill them iteratively.
+* **Key Learning:** You cannot analyze what you haven't accurately digitized.
 
-### Stage 2: Gap Audit (The Brain)
+### Stage 4: The Gatherer (High Recall)
 
-* **Goal:** Identify missing pages and calculate completion percentages.
-* **Logic:** Compares the number of files in the Source folder vs. the Master Library.
-* **Output:** Updates `library_final_metadata.json` and sorts books by lowest progress first.
+* **Goal:** Scour the digital library for potential thematic matches.
+* **Model:** Optimized for speed and breadth (e.g., `gpt-4o-mini`).
+* **Customization:** Simply swap the "Nature" prompt for any other theme (e.g., "Find all mentions of medical symptoms" or "Identify legal obligations").
 
-### Stage 3: Smart Fill (The Iterative Filler)
+### Stage 5: The Judge (High Precision)
 
-* **Goal:** Close the gaps in the library efficiently.
-* **Logic:** Reads the metadata, identifies "Incomplete" books, and allows you to process a specific number of missing pages to reach 100%.
-* **Priority:** Always suggests books with the least progress (like *Educated*) first.
+* **Goal:** Verify the Gatherer’s work and remove "False Positives" (like metaphors or contextually irrelevant matches).
+* **Model:** High-reasoning (e.g., `gpt-4o`).
+* **Logic:** This stage acts as a "Wise Auditor" to ensure data integrity before final analysis.
 
-### Stage 4: Nature Extraction (The Gatherer)
+### Stage 6: The Accuracy Dashboard
 
-* **Goal:** Find every potential mention of nature.
-* **Model:** `gpt-4o-mini` (High recall, low cost).
-* **Output:** `.../Nature_Insights/BookName_nature_TIMESTAMP.json`
-
-### Stage 5: Wise Audit (The Judge)
-
-* **Goal:** Clean the data and remove "False Positives" (like metaphors).
-* **Model:** `gpt-4o` (High reasoning, high precision).
-* **Output:** `.../openai_audits/BookName_WISE_AUDIT.json`
-
-### Stage 6: Accuracy Dashboard
-
-* **Goal:** Measure how well the AI is performing.
-* **Output:** Generates a timestamped CSV (`accuracy_check_openai_results_TIMESTAMP.csv`) showing error rates and accuracy per book.
+* **Goal:** Quantify the reliability of the AI extraction.
+* **Output:** A CSV report comparing the AI's results against ground truth, allowing for iterative prompt engineering.
 
 ---
 
-## 🚀 How to Run (Daily Driver)
+## 🚀 The Operational Loop
 
-1. **To Digitize Books:** Run the **Master Runner (Stage 2 + 3)**. It will tell you which books are empty and let you fill them page-by-page.
-2. **To Analyze Nature:** Run **Stage 4** on your completed books.
-3. **To Verify Results:** Run **Stage 5** to let the "Wise Auditor" check the quotes.
-4. **To See Stats:** Run **Stage 6** to get your CSV report.
+1. **Digitize:** Run the **Master Runner (Stage 2 + 3)** to build your digital library.
+2. **Extract:** Run **Stage 4** using your specific thematic criteria.
+3. **Verify:** Run **Stage 5** to refine the raw extractions into high-quality data.
+4. **Report:** Run **Stage 6** to see the error rates and improve the pipeline.
 
 ---
 
-## 🛡 Safeguards & Rules
+## 🛡 Architectural Safeguards
 
-* **No Deletion:** Scripts are "Append Only." They will never delete your Master Library JSONs.
-* **Flattened Paths:** Every script is locked to the same `Organized_Library_Source` path to prevent "extra" folders from being created.
-* **Handshake logic:** Stage 3 *must* have a fresh Stage 2 audit to know which pages to scan.
+* **Immutability:** The Master Library is "Append Only." The pipeline never deletes original digitized text.
+* **Modular Separation:** Every stage has its own output folder. This prevents **Recursive Bias** (where an AI error in Stage 4 is treated as a fact in Stage 5).
+* **State Verification:** Stage 0 scripts verify folder naming and pathing before a single dollar is spent on API calls.
+
+---
 
