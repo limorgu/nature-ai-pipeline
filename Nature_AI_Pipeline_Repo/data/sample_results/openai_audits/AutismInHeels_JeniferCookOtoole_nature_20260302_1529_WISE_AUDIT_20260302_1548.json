@@ -1,0 +1,118 @@
+{
+    "audit_lineage": {
+        "input_file": "AutismInHeels_JeniferCookOtoole_nature_20260302_1529.json",
+        "auditor_model": "gpt-4o",
+        "date": "20260302_1548"
+    },
+    "book_name": "AutismInHeels_JeniferCookOtoole",
+    "results": [
+        {
+            "quote": "like a mother whale lifting its newborn calf and breaking the ocean surface for that first gulp of air",
+            "category": "Animals",
+            "is_nature_error": false,
+            "reasoning": "The quote describes a literal interaction between a whale and its calf."
+        },
+        {
+            "quote": "Normal is an illusion. What is normal for the spider is chaos for the fly.",
+            "category": "Animals",
+            "is_nature_error": true,
+            "reasoning": "The quote uses animals as a metaphor to express relativity in perspectives."
+        },
+        {
+            "quote": "the life cycle of a tomato plant",
+            "category": "Fruit/Vegetables",
+            "is_nature_error": false,
+            "reasoning": "The quote references the biological cycle of a tomato plant."
+        },
+        {
+            "quote": "I remembered being a child and racing home to call 911\u2014a squirrel had been run over in the street but was actually dead.",
+            "category": "Animals",
+            "is_nature_error": false,
+            "reasoning": "The quote describes an actual event involving a squirrel."
+        },
+        {
+            "quote": "during college, my sorority sisters made me their ritualist",
+            "category": null,
+            "is_nature_error": true,
+            "reasoning": "The quote is urban-centric and unrelated to nature."
+        },
+        {
+            "quote": "It was a terribly cold day. A fact, I suppose, that isn\u2019t too shocking for midwinter in the Northeast. But\u2014I mean really cold. Bitter. Biting. Inside your bones.",
+            "category": "Weather",
+            "is_nature_error": false,
+            "reasoning": "The quote describes cold weather conditions."
+        },
+        {
+            "quote": "big, snowy field",
+            "category": "Nature Places",
+            "is_nature_error": false,
+            "reasoning": "The quote describes a landscape covered in snow."
+        },
+        {
+            "quote": "the grassy field lay covered in bright piles of brilliant white, gleaming so brightly that you could barely look out in their direction.",
+            "category": "Nature Places",
+            "is_nature_error": false,
+            "reasoning": "The quote describes a field covered in snow."
+        },
+        {
+            "quote": "arcing far, far out, over the plowed border, above the blanket of white.",
+            "category": "Nature Places",
+            "is_nature_error": false,
+            "reasoning": "The quote describes the expansive landscape of a snowy area."
+        },
+        {
+            "quote": "a tall, frosty crusty crust to what might as well have been an endless arctic tundra.",
+            "category": "Nature Places",
+            "is_nature_error": false,
+            "reasoning": "The quote describes an arctic tundra landscape."
+        },
+        {
+            "quote": "The very colors and sounds and textures of the world are so hard to ignore",
+            "category": "Nature Places",
+            "is_nature_error": false,
+            "reasoning": "The quote refers to sensory experiences in nature."
+        },
+        {
+            "quote": "The wind has caught our wings",
+            "category": "Weather",
+            "is_nature_error": true,
+            "reasoning": "The quote is metaphorical, likely intended to convey a sense of freedom or inspiration, not weather."
+        },
+        {
+            "quote": "It\u2019s a problem of nature, yes, but also of nurture.",
+            "category": null,
+            "is_nature_error": true,
+            "reasoning": "The quote is using the words 'nature' and 'nurture' in a metaphorical way to discuss psychological or behavioral topics."
+        },
+        {
+            "quote": "there is no actual difference between a flower and a weed. that's a judgment made entirely by the beholder.",
+            "category": "Trees/Flowers",
+            "is_nature_error": false,
+            "reasoning": "The quote discusses perceptions of flowers and weeds."
+        },
+        {
+            "quote": "I assume the sun will come up tomorrow and expect to be right.",
+            "category": "Weather",
+            "is_nature_error": false,
+            "reasoning": "The quote references the natural daily occurrence of sunrise."
+        },
+        {
+            "quote": "We are trying to catch the rain.",
+            "category": "Weather",
+            "is_nature_error": false,
+            "reasoning": "The quote discusses rain, a weather phenomenon."
+        },
+        {
+            "quote": "living in the Big Woods",
+            "category": "Nature Places",
+            "is_nature_error": false,
+            "reasoning": "The quote refers to a natural area, indicating a woodland setting."
+        },
+        {
+            "quote": "a house on a prairie",
+            "category": "Nature Places",
+            "is_nature_error": false,
+            "reasoning": "The quote references a geographic feature, the prairie."
+        }
+    ]
+}

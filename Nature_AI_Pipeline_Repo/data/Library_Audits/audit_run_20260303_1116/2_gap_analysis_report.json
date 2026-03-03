@@ -1,0 +1,112 @@
+[
+    {
+        "book_name": "Motherness",
+        "author": "JulieMGreeb 2",
+        "status": "Not Started",
+        "completion_percentage": "0.0%",
+        "pages_processed": 0,
+        "total_images_in_source": 70,
+        "missing_count": 70,
+        "sequence_gaps": "",
+        "total_word_count": 0
+    },
+    {
+        "book_name": "MotherCanYouNot",
+        "author": "KateSiegel",
+        "status": "Not Started",
+        "completion_percentage": "0.0%",
+        "pages_processed": 0,
+        "total_images_in_source": 30,
+        "missing_count": 30,
+        "sequence_gaps": "",
+        "total_word_count": 0
+    },
+    {
+        "book_name": "Educated",
+        "author": "TaraWestover",
+        "status": "In Progress",
+        "completion_percentage": "3.3%",
+        "pages_processed": 2,
+        "total_images_in_source": 60,
+        "missing_count": 58,
+        "sequence_gaps": "",
+        "total_word_count": 645
+    },
+    {
+        "book_name": "MyBrilliantFriend",
+        "author": "ElenaFerrante",
+        "status": "In Progress",
+        "completion_percentage": "33.8%",
+        "pages_processed": 50,
+        "total_images_in_source": 148,
+        "missing_count": 98,
+        "sequence_gaps": "2-19, 24-27, 30, 32, 34, 64-65, 68, 71-224, 226-227",
+        "total_word_count": 16551
+    },
+    {
+        "book_name": "TheWinterofMySoul",
+        "author": "SusanEHughes",
+        "status": "In Progress",
+        "completion_percentage": "61.7%",
+        "pages_processed": 74,
+        "total_images_in_source": 120,
+        "missing_count": 46,
+        "sequence_gaps": "10, 20, 27-29, 38-39, 41-42, 49-52, 65-68, 77-79, 86-87, 90-91, 94-95",
+        "total_word_count": 18436
+    },
+    {
+        "book_name": "WhatLooksLikeBravery",
+        "author": "LaurelBraitman",
+        "status": "In Progress",
+        "completion_percentage": "78.8%",
+        "pages_processed": 26,
+        "total_images_in_source": 33,
+        "missing_count": 7,
+        "sequence_gaps": "4-6, 12, 15-16, 18-21, 24, 27-29, 34-36, 41",
+        "total_word_count": 8311
+    },
+    {
+        "book_name": "TheGlassCastle",
+        "author": "JwannetteWalls",
+        "status": "In Progress",
+        "completion_percentage": "90.5%",
+        "pages_processed": 171,
+        "total_images_in_source": 189,
+        "missing_count": 18,
+        "sequence_gaps": "2-8, 52-53, 57, 72-73, 75, 80, 93, 103, 105, 121, 125-131, 135, 139, 142, 144, 174-179, 181-199, 202-206, 208, 210-212, 214, 217, 226-227, 230-305",
+        "total_word_count": 64770
+    },
+    {
+        "book_name": "AutismInHeels",
+        "author": "JeniferCookOtoole",
+        "status": "In Progress",
+        "completion_percentage": "96.9%",
+        "pages_processed": 62,
+        "total_images_in_source": 64,
+        "missing_count": 2,
+        "sequence_gaps": "2-89, 99, 111, 113, 130, 133, 136, 139, 143, 147, 150, 152-175",
+        "total_word_count": 22878
+    },
+    {
+        "book_name": "ItsJustYourImagination",
+        "author": "RevitalShiriHorowitz",
+        "status": "In Progress",
+        "completion_percentage": "100.0%",
+        "pages_processed": 94,
+        "total_images_in_source": 94,
+        "missing_count": 0,
+        "sequence_gaps": "1-18, 20-28, 37, 41-42, 44-45, 48-49, 51, 53, 57, 59-60, 63, 68-69, 71-72, 74-75, 78-79, 81-82, 85, 90, 92-93",
+        "total_word_count": 27798
+    },
+    {
+        "book_name": "FamilyLexicon",
+        "author": "NataliaGinzburg",
+        "status": "In Progress",
+        "completion_percentage": "100.0%",
+        "pages_processed": 85,
+        "total_images_in_source": 85,
+        "missing_count": 0,
+        "sequence_gaps": "12, 32-33, 35, 63, 73, 86-92",
+        "total_word_count": 30324
+    }
+]

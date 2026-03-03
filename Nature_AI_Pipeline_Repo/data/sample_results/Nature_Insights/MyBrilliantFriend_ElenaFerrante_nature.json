@@ -1,0 +1,119 @@
+[
+    {
+        "book_name": "MyBrilliantFriend",
+        "author": "ElenaFerrante",
+        "nature_quotes": true,
+        "Quote": "the violet light of the courtyard, the smells of a warm spring evening.",
+        "confidence": 9,
+        "relevancy": 8,
+        "page_number": 1
+    },
+    {
+        "book_name": "MyBrilliantFriend",
+        "author": "ElenaFerrante",
+        "nature_quotes": true,
+        "Quote": "the stinking grasses called fettienti, from the frogs, the salamanders, the flies, the rocks",
+        "confidence": 9,
+        "relevancy": 10,
+        "page_number": 37
+    },
+    {
+        "book_name": "MyBrilliantFriend",
+        "author": "ElenaFerrante",
+        "nature_quotes": true,
+        "Quote": "sun",
+        "confidence": 9,
+        "relevancy": 8,
+        "page_number": 42
+    },
+    {
+        "book_name": "MyBrilliantFriend",
+        "author": "ElenaFerrante",
+        "nature_quotes": true,
+        "Quote": "I was attracted by their reddish-yellow color when they were unripe, their compactness that gleamed on sunny days.",
+        "confidence": 9,
+        "relevancy": 8,
+        "page_number": 62
+    },
+    {
+        "book_name": "MyBrilliantFriend",
+        "author": "ElenaFerrante",
+        "nature_quotes": true,
+        "Quote": "But when they ripened on the balconies and became brown and soft like small wrinkled pears, and the skin came off easily, displaying a grainy pulp not with a bad taste but spongy in a way that reminded me of the corpses of rats along the stradone.",
+        "confidence": 9,
+        "relevancy": 9,
+        "page_number": 62
+    },
+    {
+        "book_name": "MyBrilliantFriend",
+        "author": "ElenaFerrante",
+        "nature_quotes": true,
+        "Quote": "beyond the dense countryside",
+        "confidence": 8,
+        "relevancy": 7,
+        "page_number": 67
+    },
+    {
+        "book_name": "MyBrilliantFriend",
+        "author": "ElenaFerrante",
+        "nature_quotes": true,
+        "Quote": "The thing that attracted us most was the cold air that came from the cellar, a breath that refreshed us in spring and summer.",
+        "confidence": 9,
+        "relevancy": 8,
+        "page_number": null
+    },
+    {
+        "book_name": "MyBrilliantFriend",
+        "author": "ElenaFerrante",
+        "nature_quotes": true,
+        "Quote": "We liked the bars with their spiderwebs, the darkness, and the tight mesh of the grating that, reddish with rust, curled up both on my side and on Lila\u2019s, creating two parallel holes through which we could drop rocks into obscurity and hear the sound of them exploding.",
+        "confidence": 9,
+        "relevancy": 7,
+        "page_number": null
+    },
+    {
+        "book_name": "MyBrilliantFriend",
+        "author": "ElenaFerrante",
+        "nature_quotes": true,
+        "Quote": "the streets that always basked in the heat, the belly.",
+        "confidence": 8,
+        "relevancy": 6,
+        "page_number": null
+    },
+    {
+        "book_name": "MyBrilliantFriend",
+        "author": "ElenaFerrante",
+        "nature_quotes": true,
+        "Quote": "I handed her stones, and even threw some myself.",
+        "confidence": 8,
+        "relevancy": 7,
+        "page_number": null
+    },
+    {
+        "book_name": "MyBrilliantFriend",
+        "author": "ElenaFerrante",
+        "nature_quotes": true,
+        "Quote": "The gang came from the railroad embankment, stocking up on rocks from the trackbed.",
+        "confidence": 9,
+        "relevancy": 8,
+        "page_number": null
+    },
+    {
+        "book_name": "MyBrilliantFriend",
+        "author": "ElenaFerrante",
+        "nature_quotes": true,
+        "Quote": "Once we hit him in the right calf, and I say we because I had handed Lila a flat stone with jagged edges.",
+        "confidence": 9,
+        "relevancy": 6,
+        "page_number": null
+    },
+    {
+        "book_name": "MyBrilliantFriend",
+        "author": "ElenaFerrante",
+        "nature_quotes": true,
+        "Quote": "The stone slid over Enzo\u2019s skin like a razor, leaving a red stain as it immediately gushed blood.",
+        "confidence": 9,
+        "relevancy": 5,
+        "page_number": null
+    }
+]

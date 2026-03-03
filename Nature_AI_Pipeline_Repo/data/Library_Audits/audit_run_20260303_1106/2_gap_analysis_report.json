@@ -1,0 +1,112 @@
+[
+    {
+        "book_name": "Motherness",
+        "author": "JulieMGreeb 2",
+        "status": "Not Started",
+        "completion_percentage": "0.0%",
+        "pages_processed": 0,
+        "total_images_in_source": 70,
+        "missing_count": 70,
+        "sequence_gaps": "",
+        "total_word_count": 0
+    },
+    {
+        "book_name": "TheWinterofMySoul",
+        "author": "SusanEHughes",
+        "status": "Not Started",
+        "completion_percentage": "0.0%",
+        "pages_processed": 0,
+        "total_images_in_source": 120,
+        "missing_count": 120,
+        "sequence_gaps": "",
+        "total_word_count": 0
+    },
+    {
+        "book_name": "ItsJustYourImagination",
+        "author": "RevitalShiriHorowitz",
+        "status": "Not Started",
+        "completion_percentage": "0.0%",
+        "pages_processed": 0,
+        "total_images_in_source": 94,
+        "missing_count": 94,
+        "sequence_gaps": "",
+        "total_word_count": 0
+    },
+    {
+        "book_name": "Educated",
+        "author": "TaraWestover",
+        "status": "Not Started",
+        "completion_percentage": "0.0%",
+        "pages_processed": 0,
+        "total_images_in_source": 60,
+        "missing_count": 60,
+        "sequence_gaps": "",
+        "total_word_count": 0
+    },
+    {
+        "book_name": "MyBrilliantFriend",
+        "author": "ElenaFerrante",
+        "status": "Not Started",
+        "completion_percentage": "0.0%",
+        "pages_processed": 0,
+        "total_images_in_source": 148,
+        "missing_count": 148,
+        "sequence_gaps": "",
+        "total_word_count": 0
+    },
+    {
+        "book_name": "TheGlassCastle",
+        "author": "JwannetteWalls",
+        "status": "Not Started",
+        "completion_percentage": "0.0%",
+        "pages_processed": 0,
+        "total_images_in_source": 189,
+        "missing_count": 189,
+        "sequence_gaps": "",
+        "total_word_count": 0
+    },
+    {
+        "book_name": "MotherCanYouNot",
+        "author": "KateSiegel",
+        "status": "Not Started",
+        "completion_percentage": "0.0%",
+        "pages_processed": 0,
+        "total_images_in_source": 30,
+        "missing_count": 30,
+        "sequence_gaps": "",
+        "total_word_count": 0
+    },
+    {
+        "book_name": "FamilyLexicon",
+        "author": "NataliaGinzburg",
+        "status": "Not Started",
+        "completion_percentage": "0.0%",
+        "pages_processed": 0,
+        "total_images_in_source": 85,
+        "missing_count": 85,
+        "sequence_gaps": "",
+        "total_word_count": 0
+    },
+    {
+        "book_name": "AutismInHeels",
+        "author": "JeniferCookOtoole",
+        "status": "Not Started",
+        "completion_percentage": "0.0%",
+        "pages_processed": 0,
+        "total_images_in_source": 64,
+        "missing_count": 64,
+        "sequence_gaps": "",
+        "total_word_count": 0
+    },
+    {
+        "book_name": "WhatLooksLikeBravery",
+        "author": "LaurelBraitman",
+        "status": "Not Started",
+        "completion_percentage": "0.0%",
+        "pages_processed": 0,
+        "total_images_in_source": 33,
+        "missing_count": 33,
+        "sequence_gaps": "",
+        "total_word_count": 0
+    }
+]
