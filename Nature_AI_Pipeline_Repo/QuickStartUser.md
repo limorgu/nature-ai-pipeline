@@ -1,4 +1,3 @@
-This **QuickStart.md** is designed for a general user  to step into the project and begin processing books immediately. It simplifies the technical "under-the-hood" logic into a series of actionable steps.
 
 ---
 
@@ -21,10 +20,10 @@ Follow these steps to move a physical book from a "pile of photos" to a "verifie
 This is your "Daily Driver." Use this script to turn images into searchable text.
 
 * **Action:** Run `master_runner_2_3.py`.
-* **What it does:** 1.  Scans your library to see what is missing.
-2.  Shows you a **Priority List** (Books with 0% progress at the top).
-3.  Asks: *"Select book number to process."*
-4.  Asks: *"How many pages to fill?"*
+* **What it does:** 1.  Scans your library to see what is missing.
+2.  Shows you a **Priority List** (Books with 0% progress at the top).
+3.  Asks: *"Select book number to process."*
+4.  Asks: *"How many pages to fill?"*
 * **Goal:** Get your target books to **100% completion**.
 
 ---
@@ -74,4 +73,3 @@ See how well the pipeline performed across your entire library.
 * **"Book not found":** Ensure your folder in `Feb_books_test` uses an underscore (e.g., `Book_Author`).
 * **"0% Progress":** Always run the **Master Runner** first to refresh the audit before starting a new batch.
 * **"Extra Folders":** If you see a second `Organized_Library_Source` folder, delete the empty one and ensure all scripts are using the path inside `Feb_results`.
-
