@@ -1,77 +1,83 @@
 
 
+
+
 ---
 
-# 🚀 QuickStart Guide: Thematic Research AI Pipeline
+# 🚀 QuickStart Guide: Nature AI Research Pipeline
 
-Follow these steps to move from a "pile of raw photos" to a "verified, structured insight database." This guide uses **Nature Extraction** as the primary example, but the steps apply to any thematic research goal.
+Follow these steps to move from a "pile of raw photos" to a **"Gold Standard"** insight database.
 
 ## 🛠 Prerequisites
 
-1. **OpenAI API Key:** Ensure your environment has your `OPENAI_API_KEY` set.
-2. **Photo Prep:** Place your source photos in a folder inside `Source_Data/`.
-* **Naming Convention:** `Title_Author` (e.g., `Educated_TaraWestover`).
+1. **OpenAI API Key:** Ensure your environment has `OPENAI_API_KEY` set.
+2. **Photo Prep:** Place your source photos in `Feb_books_test/`.
+* **Naming Convention:** `Title_Author` (No spaces, use underscores).
 
 
-3. **Folder Check:** Run `stage_0_validator.py` to ensure your naming is machine-readable.
+3. **The Orchestrator:** Launch the mission control:
+```bash
+python main.py
 
----
+```
 
-## 🏃‍♂️ Step 1: Digitize the Source (The Master Runner)
 
-This is your "Daily Driver." Use this script to turn physical images into a 1:1 digital text library.
-
-* **Action:** Run `master_runner_2_3.py`.
-* **What it does:** 1. Scans your library to identify gaps (missing pages).
-2. Shows a **Priority List** (Sources with 0% progress at the top).
-3. Prompts you to select a source and the number of pages to process.
-* **Goal:** Reach **100% completion** for your target books.
 
 ---
 
-## 🔍 Step 2: Thematic Extraction (The Gatherer)
+## 🏃‍♂️ Phase A: Digitization (The Foundation)
 
-Once your source is 100% digitized, it’s time to find your specific research themes.
+Before you can analyze nature, you must create a **1:1 Digital Twin** of your books.
 
-* **Action:** Run `stage_4_thematic_extraction.py`.
-* **Logic:** Scans the text JSONs and pulls every quote that matches your defined criteria (e.g., Nature, Medical Symptoms, Legal Clauses).
-* **Result:** Creates a "Draft" file in the `Thematic_Drafts/` folder.
-
----
-
-## ⚖️ Step 3: Verify the Data (The Wise Auditor)
-
-AI can be over-enthusiastic (hallucinating metaphors as facts). This step applies high-reasoning logic to filter out noise.
-
-* **Action:** Run `stage_5_wise_audit.py`.
-* **What it does:** Uses **GPT-4o** to categorize extracts (e.g., *Animals vs. Weather* or *Literal vs. Metaphorical*) and flags errors.
-* **Result:** Creates a "Gold Standard" file in the `Final_Audits/` folder.
+* **Action:** Select **Option [1]** in the menu.
+* **What it does:** Runs the **Librarian (Stages 1-3)**. It transcribes images and audits gaps until your library reaches **100.0% completion**.
+* **Goal:** Populate `Organized_Library_Source/` with verbatim JSON text.
 
 ---
 
-## 📊 Step 4: Review Your Accuracy
+## 🌿 Phase B: Research (Thematic Extraction)
 
-Measure the reliability of the pipeline across your entire research project.
+Once your library is digitized, run the thematic extraction sequence.
 
-* **Action:** Run `stage_6_accuracy_dashboard.py`.
-* **Result:** Prints a performance table and saves a **Timestamped CSV** in the `Final_Audits/` folder.
-* *Use this to identify which sources or themes were the hardest for the AI to interpret!*
+* **Action:** Select **Option [2]** in the menu.
+* **What it does:** Executes the **Research Pipeline (Stages 4-6)** in sequence:
+1. **Gatherer (Stage 4):** Harvests every potential nature mention.
+2. **Judge (Stage 5):** Uses **GPT-4o** to verify quotes and filter metaphors.
+3. **Purifier (Stage 6):** Creates a "Gold Standard" file and accuracy report.
+
+
+* **Result:** Creates a new timestamped "Time-Capsule" folder for your run.
 
 ---
 
-## 📂 Where are my files?
+## 📂 Where is my Data?
 
-* **Verified Insights:** `/Final_Audits/` (Look for `_WISE_AUDIT_` files).
-* **Accuracy Reports:** `/Final_Audits/accuracy_check_results_...csv`.
-* **Full Digitized Library:** `/Organized_Library_Source/`.
+Your research is now organized in the **Hierarchical Hub** inside `openai_audits/`:
+
+`.../openai_audits/[Book_Name_Timestamp]/`
+
+* **`S4_V1/`**: Raw nature extractions.
+* **`S5_V1/`**: Verified "Wise Audits".
+* **`S6_Gold/`**: The purified "Gold Standard" quotes for your Substack.
+
+---
+
+## 🧹 Maintenance: Keeping it "Crisp"
+
+If your workspace feels cluttered, or you have loose files from old runs:
+
+* **Action:** Select **Option [0]** (Stage 0: Pre-flight).
+* **What it does:** Automatically validates your book titles and performs an **In-Place Organization** to tuck files into their correct subfolders.
 
 ---
 
 ## 🆘 Troubleshooting
 
-* **"Source not found":** Ensure your folder uses an underscore (e.g., `Book_Author`) and contains no spaces.
-* **"0% Progress":** Always run the **Master Runner** first to refresh the audit metadata before starting a new extraction batch.
-* **"Data Leakage":** If you see extra folders, ensure your `LIBRARY_ROOT` in the script matches the path inside your `Results` folder.
+* **"Missing Stage Files":** Ensure all `March_X_stage_X.py` files are in the same folder as `main.py`.
+* **"Skipping Book":** The pipeline is **Aware**. If it sees you already processed those pages in an existing timestamped folder, it will skip them to save you money.
+* **"Linguistic Fog":** If the accuracy in Stage 6 is low, check the `S5_V1` files to see why the "Judge" flagged certain quotes as metaphorical errors.
 
 ---
+
+
 
