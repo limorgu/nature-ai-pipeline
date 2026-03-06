@@ -1,4 +1,4 @@
-This **Master README** is designed to be your project’s "Source of Truth." It documents the exact folder structure, the logic behind each stage, and how the data flows from a raw photo to a verified nature insight.
+
 
 ---
 
