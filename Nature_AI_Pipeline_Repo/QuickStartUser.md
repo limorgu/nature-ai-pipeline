@@ -73,9 +73,3 @@ Measure the reliability of the pipeline across your entire research project.
 * **"Data Leakage":** If you see extra folders, ensure your `LIBRARY_ROOT` in the script matches the path inside your `Results` folder.
 
 ---
-
-### Final "Crisp" Conclusion for Step 1
-
-This layout is now perfect for your Substack. It highlights the **reproducibility** of the workflow.
-
-**Would you like me to draft a sample "Prompt Template" for Stage 4 that shows how a user would swap out the "Nature" theme for a "Character Emotion" theme?**
