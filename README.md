@@ -11,7 +11,6 @@
 * extraction produces **per-model gold datasets**
 * Stage 6 compares models
 
-Below is a **clean updated README that matches your current system**.
 
 ---
 
