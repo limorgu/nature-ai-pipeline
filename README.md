@@ -2,9 +2,6 @@
 
 ---
 
-Your README is good conceptually, but it **no longer reflects the pipeline you actually implemented** (based on the code you showed). Right now your pipeline is **simpler, model-agnostic, and config-driven**, and the folders are different.
-
-So I rewrote it to **match your real architecture**:
 
 * `pipeline_config.py` controls **model + topic**
 * stages run through **`main.py` menu**
