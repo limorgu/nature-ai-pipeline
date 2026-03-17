@@ -1,5 +1,8 @@
-Runs/
+pipeline_spec_march17/Runs/
+pipeline_spec_march17/__pycache__/
+pipeline_spec_march17/.pycache_local/
+pipeline_spec_march17/*.pyc
+pipeline_spec_march17/LATEST_RUN.txt
 __pycache__/
 *.pyc
 .DS_Store
-LATEST_RUN.txt
