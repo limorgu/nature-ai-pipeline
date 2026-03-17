@@ -1,0 +1,46 @@
+{
+  "domain": "Nature",
+  "binary_label": "match_found",
+  "taxonomy": [
+    "Fauna",
+    "Flora"
+  ],
+  "label_keywords": {
+    "Fauna": [
+      "animal",
+      "animals",
+      "bird",
+      "birds",
+      "cat",
+      "cats",
+      "cow",
+      "cows",
+      "donkey",
+      "donkeys",
+      "horse",
+      "horses",
+      "pig",
+      "pigs",
+      "wildlife"
+    ],
+    "Flora": [
+      "bloom",
+      "flower",
+      "flowers",
+      "forest",
+      "grass",
+      "leaf",
+      "leaves",
+      "pine",
+      "plant",
+      "plants",
+      "straw",
+      "tree",
+      "trees",
+      "wheat"
+    ]
+  },
+  "relationship_analysis": true,
+  "judge_criteria": "Mark a match when the text contains a literal or direct domain-relevant reference to one of the configured taxonomy labels.",
+  "extraction_strategy": "sentence"
+}

@@ -1,0 +1,15 @@
+{
+  "project_name": "SPEC_march17",
+  "storage_root": "__PROJECT_ROOT__",
+  "raw_sources_root": "/Users/limorkissos/Documents/books/inbox_photos/data_test/Feb_books_test",
+  "runs_dirname": "Runs",
+  "stage_names": {
+    "S1": "Librarian_Intake_OCR",
+    "S2": "Worker_Extraction",
+    "S3": "Judge_Audit",
+    "S4": "Analytics_Relationships",
+    "S5": "Reports_Dashboards",
+    "S6": "Exports_GroundTruth",
+    "S7": "Model_Benchmarking"
+  }
+}

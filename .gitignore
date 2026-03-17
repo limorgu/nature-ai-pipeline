@@ -1,0 +1,5 @@
+Runs/
+__pycache__/
+*.pyc
+.DS_Store
+LATEST_RUN.txt
